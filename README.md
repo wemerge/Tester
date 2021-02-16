@@ -1,9 +1,12 @@
 # Tester
 Test build
+  
 <html>
   <head>
+    <link rel="stylesheet" type="text/css" href="testerbester.css">
   </head>
   <body>
-    <p>Hello World!</p>
+    <p>Hello world! This text should be blue because of the CSS I wrote in index.css!</p>
+    <script type="text/javascript" src="testerbester.js"></script>
   </body>
 </html>
